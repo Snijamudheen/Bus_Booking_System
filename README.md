@@ -1,0 +1,4 @@
+-Bus Booking System is a C++-based console application. 
+-It was designed in Visual Studio and compiled with the GCC compiler. 
+-With this system, you can book seats, cancel reservations, and perform various types of route inquiries in order to make quick reservations. 
+-Customer data, bus information, and reservations data will be tracked.
